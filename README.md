@@ -16,7 +16,7 @@ It was a competition about designing an image processing pipeline to automatical
 - This was an assignment in my college
 
 
-# Challenges was:
+# Challenges were:
 - Manually correcting a huge amount of data is a very time-consuming task, also creating an intelligent system without being 100% accurate won't be a usable solution, as we can't accept that a student doesn't get what he/she deserves, that's why we're not targeting only high accuracy, but we're targeting a perfect solution.
 
 - The challenges you'll face during building your automatic solution are usually due to students not following the rules:
@@ -35,4 +35,4 @@ It was a competition about designing an image processing pipeline to automatical
 
 - Last challenge is the scanning process, which doesn't align the images vertically, so you may find a scanned image slightly rotated to the right or left, you'll need to handle this in your preprocessing system.
 
-These are mainly the challenges that you'll need to handle while building your correction algorithm.
+These were mainly the challenges that I needed to handle while building the correction algorithm.
